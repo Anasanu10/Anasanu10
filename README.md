@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasanu10&layout=compact&show_icons=true&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasanu10&layout=compact&show_icons=true)
