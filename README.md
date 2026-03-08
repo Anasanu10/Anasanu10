@@ -9,7 +9,7 @@ Anasanu10/Anasanu10 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=vector&theme=dark)
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=anas&theme=dark)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasanu10&layout=compact&show_icons=true)
